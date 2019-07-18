@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="dsf.xsd">
+<commonInfo>
+<dopeVersion>
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate>
+</dopeVersion>
+</commonInfo>
+<!-- SUBCHDB: default TARGPK: default TARGDB: default -->
+<data dbtype="DRP" version="1.12" osUser="Marco" dopeUser="ADMIN" dbEdition="223" timestamp="2019-02-24 12:54:14 MEZ" dataSorted="no" locale="de_DE">
+<paragraph id="DAVE_TBS11" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:04:43" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:04:43" uuid="972d4b194cc0461bb3815c0a369013e2"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS10" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:35:23" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:35:23" uuid="b9e5b9c82d2b4842b83001f4edffe163"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS12" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:04:54" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:04:54" uuid="a5947f2eee9d4557b390078a369eec0c"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS13" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:04:57" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:04:57" uuid="33b31aa7a96f49518910c74971efcd30"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS1" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 20:33:46" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 07:23:01" uuid="808ccd8fd38d4b0cb2c8cbb9df22a74a"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR1" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+<variabletypeentry refid="DAVE_VAR2" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+<logic isExecutable="yes">
+<basiclogic>
+<conditions>
+<condition value="&amp;DAVE_VAR2 = 2" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+</conditions>
+<actions>
+<action value="&amp;DAVE_VAR1 = 1" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+</actions>
+</basiclogic>
+</logic>
+<behaviours><behaviour type="logic"><executionContext pointInTime="onDocumentPreparation"><condition><ifTrue mode="required"/><ifFalse mode="unselected"/></condition></executionContext></behaviour></behaviours></paragraph>
+<paragraph id="DAVE_TBS14" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:02" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:02" uuid="d3a34481c3d3445cbfb01f6c40d0329f"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS15" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:06" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:06" uuid="575b4686825c49e890aa4fdcda2615a6"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS16" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:10" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:10" uuid="d3e0349f77954b17888b69bba7302ddf"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS17" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:14" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:14" uuid="dd6530d152094369bb034f902bcc2d0f"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS18" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:19" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:19" uuid="d88364e3abc6416fb2c054338a904768"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS19" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:23" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:23" uuid="489d63e618e24dcfb9ed912af28f724f"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS20" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:27" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:27" uuid="e786305f88d944f28f0cf8a9aec0fbc8"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS21" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:35" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:35" uuid="b38e9d139fa94bb7980ebdbd105d5a20"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS2" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 20:34:07" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:30:20" uuid="c4359971a1254a238f3878fb1a98f417"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR2" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+<logic isExecutable="yes">
+<basiclogic>
+<conditions>
+<condition value="&amp;DAVE_VAR2 = 1" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+</conditions>
+<actions>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="ignore" mapping="X"/>
+</actions>
+</basiclogic>
+</logic>
+<behaviours><behaviour type="logic"><executionContext pointInTime="onDocumentPreparation"><condition><ifTrue mode="required"/><ifFalse mode="unselected"/></condition></executionContext></behaviour></behaviours></paragraph>
+<paragraph id="DAVE_TBS22" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:39" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:39" uuid="e780bb33eb1c4265974e32240ab73273"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS23" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:41" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:41" uuid="7dde944f12014583890045c386e7b365"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS24" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:45" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:45" uuid="1cf3f441cd6e4635a3670d2362ba296b"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS25" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:48" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:48" uuid="7327b19ed5e044ca8ea6cd1bfefa2299"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS26" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:51" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:51" uuid="48459567202746cca055665392f4aadc"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS27" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:05:56" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:05:56" uuid="a199bbb89e11448a934a3f52f33a0d9d"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS28" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:06:06" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:06:06" uuid="31c64cd092994d5c86bb191a03d8e103"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS29" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:06:10" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:06:10" uuid="07236b2410ba4a748def2b9b04b07529"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS30" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:06:15" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:06:15" uuid="d6861d4acff74cf7a216c7c52a3f6d9d"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS3" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:22" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:30:28" uuid="22abd52c1ecf4104be11d0c798c27d38"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR3" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS4" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:34" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:28" uuid="1115cfed849c4c7a88134f20c28eab02"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR4" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS5" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:49" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:33" uuid="bdfcb7548a3b47d2b7ecbf6b03d7165b"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR5" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS6" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:58" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:38" uuid="9129c71d049e4b6e93aa9885a6f1a4b4"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR7" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS7" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:45" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:45" uuid="89ee3096f1d74c79a90c5c81caa0607d"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS8" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:51" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:51" uuid="7911091e905943c1bc96239fb3b71817"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+<paragraph id="DAVE_TBS9" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:35:19" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:35:19" uuid="9123ca48cb544ed590287f541c5dfca0"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+</paragraph>
+</data>
+</dope>
