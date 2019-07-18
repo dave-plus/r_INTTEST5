@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="dsf.xsd">
+<commonInfo>
+<dopeVersion>
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate>
+</dopeVersion>
+</commonInfo>
+<!-- SUBCHDB: default TARGPK: default TARGDB: default -->
+<data dbtype="DRP" version="1.12" osUser="Marco" dopeUser="ADMIN" dbEdition="223" timestamp="2019-02-24 12:55:03 MEZ" dataSorted="no" locale="de_DE">
+<stencil id="DAVE_DVL1" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="24-02-2019 12:27:23" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:33:44" uuid="f3ae476d3a514a2592807fabe0e7fb98"/>
+<stencilentries>
+<stencilentry refid="DAVE_TDV1" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV2" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV3" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV4" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV5" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV6" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV7" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV8" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV9" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV10" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+</stencilentries>
+</stencil>
+<paragraph id="DAVE_TBS1" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 20:33:46" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 07:23:01" uuid="808ccd8fd38d4b0cb2c8cbb9df22a74a"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR1" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+<variabletypeentry refid="DAVE_VAR2" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+<logic isExecutable="yes">
+<basiclogic>
+<conditions>
+<condition value="&amp;DAVE_VAR2 = 2" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+</conditions>
+<actions>
+<action value="&amp;DAVE_VAR1 = 1" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+</actions>
+</basiclogic>
+</logic>
+<behaviours><behaviour type="logic"><executionContext pointInTime="onDocumentPreparation"><condition><ifTrue mode="required"/><ifFalse mode="unselected"/></condition></executionContext></behaviour></behaviours></paragraph>
+<paragraph id="DAVE_TBS2" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 20:34:07" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:30:20" uuid="c4359971a1254a238f3878fb1a98f417"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR2" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+<logic isExecutable="yes">
+<basiclogic>
+<conditions>
+<condition value="&amp;DAVE_VAR2 = 1" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+<condition value="" mapping="J"/>
+</conditions>
+<actions>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="" mapping="X"/>
+<action value="ignore" mapping="X"/>
+</actions>
+</basiclogic>
+</logic>
+<behaviours><behaviour type="logic"><executionContext pointInTime="onDocumentPreparation"><condition><ifTrue mode="required"/><ifFalse mode="unselected"/></condition></executionContext></behaviour></behaviours></paragraph>
+<paragraph id="DAVE_TBS3" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:22" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:30:28" uuid="22abd52c1ecf4104be11d0c798c27d38"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR3" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS4" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:34" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:28" uuid="1115cfed849c4c7a88134f20c28eab02"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR4" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+<paragraph id="DAVE_TBS5" editable="permit" editMode="editor" alias="" allowMultipleUsage="no" showTitle="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:36:49" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" subtype="TXT" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:33" uuid="bdfcb7548a3b47d2b7ecbf6b03d7165b"/>
+<textcontent><![CDATA[.*ADMIN_INFO v=1.0.0
+.*ADMIN_INFO st=false
+.*ADMIN_INFO sf=true
+.*ADMIN_INFO sfl=false
+.*ADMIN_INFO wpa=false
+.*ADMIN_INFO awpa=true
+.*ADMIN_INFO wa=false
+.*ADMIN_INFO ra=false
+.*ADMIN_INFO dc=false
+:DPTW.
+.dpnp rsk
+Textbaustein
+.dpnp rsk
+:DPTW.
+.dplft
+.dpls 1.0
+.dpin 0mm
+.dpir 0mm
+.dpnp
+]]></textcontent>
+<variabletypeentries>
+<variabletypeentry refid="DAVE_VAR5" description="DAVE" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no"/>
+</variabletypeentries>
+</paragraph>
+</data>
+</dope>
