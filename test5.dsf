@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="dsf.xsd">
+<commonInfo>
+<dopeVersion>
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate>
+</dopeVersion>
+</commonInfo>
+<!-- SUBCHDB: default TARGPK: default TARGDB: default -->
+<data dbtype="DRP" version="1.12" osUser="Marco" dopeUser="ADMIN" dbEdition="223" timestamp="2019-02-24 12:54:29 MEZ" dataSorted="no" locale="de_DE">
+<variable id="DAVE_VAR1" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:31:48" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:31:48" uuid="3478b52b33f543afa39cb5add96dfe9a"/>
+</variable>
+<variable id="DAVE_VAR10" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:35:15" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:35:15" uuid="e756bd7dc7f9456993d2fd64552804f0"/>
+</variable>
+<variable id="DAVE_VAR11" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:29" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:29" uuid="b0fe0982215e4bb8a3398da4a2595002"/>
+</variable>
+<variable id="DAVE_VAR12" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:38" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:38" uuid="78b545cc8f0d43dca35398f4d52cd8db"/>
+</variable>
+<variable id="DAVE_VAR13" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:42" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:42" uuid="c2c93a942a2d4f10999ca90601b6b8e0"/>
+</variable>
+<variable id="DAVE_VAR14" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:47" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:47" uuid="3071b099c7bc497ba24472b341fed7ea"/>
+</variable>
+<variable id="DAVE_VAR15" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:51" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:51" uuid="bfcc70da54e24f23a6aaf3e10eab0139"/>
+</variable>
+<variable id="DAVE_VAR17" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:08:00" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:08:00" uuid="8d5d358b0eea46b5bddca30791cfecc1"/>
+</variable>
+<variable id="DAVE_VAR16" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:07:55" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:07:55" uuid="b5c97d65e3314275b46c18b2880606f6"/>
+</variable>
+<variable id="DAVE_VAR18" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:08:06" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:08:06" uuid="f5f0b81407b149f4ac770afe85d51439"/>
+</variable>
+<variable id="DAVE_VAR19" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:08:15" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:08:15" uuid="bb18a1d189b3456881227301cabd1ede"/>
+</variable>
+<variable id="DAVE_VAR2" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:31:52" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:31:52" uuid="b5c5ff50cf53473fa71869bf35aab005"/>
+</variable>
+<variable id="DAVE_VAR20" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="01-12-2018 09:08:20" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="01-12-2018 09:08:20" uuid="8e238f7ccba74f6ba4589bb3159ad24b"/>
+</variable>
+<variable id="DAVE_VAR3" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:31:56" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:31:56" uuid="77943f56abf249a488652a6ebc768e58"/>
+</variable>
+<variable id="DAVE_VAR4" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:00" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:00" uuid="217da8b4ce7249f18a4b9a28ab4ce279"/>
+</variable>
+<variable id="DAVE_VAR5" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:03" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:03" uuid="d298fcd92c9a4fccb8261f2978777ec2"/>
+</variable>
+<variable id="DAVE_VAR6" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:07" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:07" uuid="5a30acad841b4b7eaa01e633aaae15c3"/>
+</variable>
+<variable id="DAVE_VAR7" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:11" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:11" uuid="0ecc48c3ea05467eb8e24418ff35dbff"/>
+</variable>
+<variable id="DAVE_VAR8" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:32:14" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:32:14" uuid="b6ea732c1bdd40a6b1b09e26aef90ac4"/>
+</variable>
+<variable id="DAVE_VAR9" defaultvalue="" paramclass="general" format="alphanumeric" minlength="1" maxlength="60" mask="" entrymode="editable" valueIsMandatory="no" isKeyword="no" asArea="no" PVP="no" DCP="no" PDP="no" isSpellChecked="no" autoUpdateReferences="no">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" protectionCode="0" productionState="10" owner="DAVE" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 19:35:10" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:35:10" uuid="0625bc7775474201ac9b56c555930d6b"/>
+</variable>
+</data>
+</dope>
